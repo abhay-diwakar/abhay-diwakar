@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Diwakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right " alt="coding" width ="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&itg=1&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=172d7651758eef08&shem=abme%2Ctrie">
-<p align="left"> <a href="https://twitter.com/https://www.twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.twitter.com/?logo=twitter&style=for-the-badge" alt="https://www.twitter.com/" /></a> </p>
+<img align ="right " alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Track Back**
 
